@@ -1,0 +1,33 @@
+Line 656: Class VBMP.VBMPlayer of control MusicPlayer was not a loaded control class.
+Line 665: Class VBMP.VBMPlayer of control BGSPlayer was not a loaded control class.
+Line 674: Class VBMP.VBMPlayer of control SoundPlayer was not a loaded control class.
+Line 25: Property Icon in frmMirage had an invalid file reference.
+Line 29: Property Picture in frmMirage had an invalid file reference.
+Line 662: The property name _ExtentX in MusicPlayer is invalid.
+Line 663: The property name _ExtentY in MusicPlayer is invalid.
+Line 671: The property name _ExtentX in BGSPlayer is invalid.
+Line 672: The property name _ExtentY in BGSPlayer is invalid.
+Line 680: The property name _ExtentX in SoundPlayer is invalid.
+Line 681: The property name _ExtentY in SoundPlayer is invalid.
+Line 1532: Property Picture in picUp had an invalid file reference.
+Line 1552: Property Picture in picDown had an invalid file reference.
+Line 1652: Property ItemData in lstSpells had an invalid file reference.
+Line 1654: Property List in lstSpells had an invalid file reference.
+Line 1734: Property ItemData in lstOnline had an invalid file reference.
+Line 1736: Property List in lstOnline had an invalid file reference.
+Line 2427: Property TextRTF in txtChat had an invalid value.
+Line 25: Property Icon in frmMirage had an invalid file reference.
+Line 29: Property Picture in frmMirage had an invalid file reference.
+Line 662: The property name _ExtentX in MusicPlayer is invalid.
+Line 663: The property name _ExtentY in MusicPlayer is invalid.
+Line 671: The property name _ExtentX in BGSPlayer is invalid.
+Line 672: The property name _ExtentY in BGSPlayer is invalid.
+Line 680: The property name _ExtentX in SoundPlayer is invalid.
+Line 681: The property name _ExtentY in SoundPlayer is invalid.
+Line 1532: Property Picture in picUp had an invalid file reference.
+Line 1552: Property Picture in picDown had an invalid file reference.
+Line 1652: Property ItemData in lstSpells had an invalid file reference.
+Line 1654: Property List in lstSpells had an invalid file reference.
+Line 1734: Property ItemData in lstOnline had an invalid file reference.
+Line 1736: Property List in lstOnline had an invalid file reference.
+Line 2427: Property TextRTF in txtChat had an invalid value.
